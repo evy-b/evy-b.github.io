@@ -460,5 +460,5 @@ footer .footer-below {
 
 .contact-me-info {
     text-align: center;
-    text-overflow: ellipsis;
+    overflow: auto;
 }
