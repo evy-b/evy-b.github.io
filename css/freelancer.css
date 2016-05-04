@@ -462,3 +462,9 @@ footer .footer-below {
     text-align: center;
     word-wrap: break-word;
 }
+
+.showreeltable tr td:nth-child(2),
+.showreeltable tr td:nth-child(3)
+{
+    text-align: left;
+}
